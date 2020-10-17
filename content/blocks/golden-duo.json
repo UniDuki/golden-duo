@@ -15,6 +15,7 @@
 
     "ammoTypes": {
         "copper": {
+            "type": "MissileBulletType",
             "speed": 50,
             "damage": 256,
             "bulletWidth": 7,
