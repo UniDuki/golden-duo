@@ -1,5 +1,5 @@
 {
-    "type": "DoubleTurret",
+    "type": "ItemTurret",
     "name": "Golden Duo",
     "description": "A duo but golden",
 
@@ -10,8 +10,10 @@
     "range": 256,
     "inaccuracy": 30,
     "rotatespeed": 12,
+    "alternate": true,
+    "shots": 2,
 
-    "ammoUseEffect": "shellEjectSmall",
+    "ammoUseEffect": "none",
 
     "ammoTypes": {
         "copper": {
